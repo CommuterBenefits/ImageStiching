@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/ns-dev/Desktop/StitchingImages/StitchingImages/main.cpp \
+  /Users/ns-dev/Desktop/nutrisavingsOCRGitHub/StitchingImages/ImageStiching/StitchingImages/main.cpp \
   /usr/local/include/opencv2/imgcodecs.hpp \
   /usr/local/include/opencv2/core.hpp \
   /usr/local/include/opencv2/core/cvdef.h \
